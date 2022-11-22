@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@28_harshupadhye" target="blank"><img src="https://img.shields.io/twitter/follow/@28_harshupadhye?logo=twitter&style=for-the-badge" alt="@28_harshupadhye" /></a> </p>
 
-- 🔭 I’m currently working on **Healthy Me Website**
+- 🔭 I’m currently trying to create open source project and freelancing
 
 - 📝 I regularly write articles on [Web Developing](Web Developing)
 
