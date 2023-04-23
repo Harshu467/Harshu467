@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@28_harshupadhye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@28_harshupadhye" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harsh upadhye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh upadhye" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harsh-upadhye-b0269a213/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh upadhye" height="30" width="40" /></a>
 <a href="https://instagram.com/harshup_2832" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshup_2832" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/upadhye_32" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="upadhye_32" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/harshupadhye2832" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshupadhye2832" height="30" width="40" /></a>
